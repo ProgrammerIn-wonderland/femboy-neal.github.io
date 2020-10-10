@@ -1,5 +1,5 @@
 # Miku's Domain
-where nightmares come true:tm:
+where nightmares come true™
 ## Calculators
 [Suicide Calculator: Caffiene, Coffee and Monster Energy](https://www.desmos.com/calculator/9qxqvhdvrs)
 
